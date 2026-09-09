@@ -1,0 +1,6 @@
+{
+  "name": "HealthyLine - AI Support Admin Panel",
+  "description": "Official HealthyLine customer support chat history viewer and admin panel connected to Supabase with real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
